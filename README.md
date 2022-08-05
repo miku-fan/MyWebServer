@@ -1,7 +1,4 @@
-# WebServer 学习笔记
-
-Github 项目地址：[github - linyacool](https://github.com/linyacool/WebServer)
-
+# WebServer 笔记
 -------------------------------------
 
 ## 一些 base 类型
